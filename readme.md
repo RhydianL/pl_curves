@@ -2,8 +2,7 @@ This software is automatically tested by Travis-CI after each build. Current bui
 [![Build status](https://travis-ci.com/RhydianL/pl_curves.svg?branch=master)](https://travis-ci.com/RhydianL/pl_curves)
 
 Code coverage: 
-[![codecov](https://codecov.io/gh/CDT-AIMLAC/pl_curves/branch/master/graph/badge.svg)](https://codecov.io/gh/CDT-AIMLAC/pl_curves)
-
+[![codecov](https://codecov.io/gh/RhydianL/pl_curves/branch/master/graph/badge.svg?token=ODX8KGADWD)](https://codecov.io/gh/RhydianL/pl_curves)
 # Introduction
 
 This program calculates Pareto–Lorenz (PL) curves for calculating the relative abundance of different bacteria in a community. It also calculates a Gini coefficient to show how evenly distributed the different bacteria are. There are tests written for most functions. Your task is to:
